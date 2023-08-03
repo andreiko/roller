@@ -1,0 +1,11 @@
+[package]
+name = "firmware"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+debug_spi = []
+
+[dependencies]
+avr-device = { version = "0", features = ["atmega328p", "rt"] }
+num-traits = { version = "0", default-features = false, features = [] }

@@ -1,0 +1,14 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "firmware",
+]
+
+[profile.release]
+lto = true
+panic = "abort"
+
+[profile.dev]
+lto = true
+panic = "abort"
