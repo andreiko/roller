@@ -7,9 +7,11 @@ turn one of the two settings knobs on the side to choose 4 and the other knob to
 "4d20", then shake or roll the sphere on the table. Once you stop shaking it, or it finds balance after the roll, it'll
 display the result for you!
 
+Thanks to @martosaur for the inspiration!
+
 ## Demo
 
-TODO: upload.
+https://github.com/andreiko/roller/assets/340586/529d8536-9296-4882-b3c2-84f893c51189
 
 ## Electrical design
 
